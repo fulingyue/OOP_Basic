@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libBasicSrc.a  CMakeFiles/BasicSrc.dir/Basic.o CMakeFiles/BasicSrc.dir/evalstate.o CMakeFiles/BasicSrc.dir/exp.o CMakeFiles/BasicSrc.dir/parser.o CMakeFiles/BasicSrc.dir/program.o CMakeFiles/BasicSrc.dir/statement.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libBasicSrc.a

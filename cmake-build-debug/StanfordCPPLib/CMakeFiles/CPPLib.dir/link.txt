@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libCPPLib.a  CMakeFiles/CPPLib.dir/error.cpp.o CMakeFiles/CPPLib.dir/gmath.cpp.o CMakeFiles/CPPLib.dir/hashmap.cpp.o CMakeFiles/CPPLib.dir/lexicon.cpp.o CMakeFiles/CPPLib.dir/main.cpp.o CMakeFiles/CPPLib.dir/random.cpp.o CMakeFiles/CPPLib.dir/simpio.cpp.o CMakeFiles/CPPLib.dir/startup.cpp.o CMakeFiles/CPPLib.dir/strlib.cpp.o CMakeFiles/CPPLib.dir/tokenscanner.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libCPPLib.a
