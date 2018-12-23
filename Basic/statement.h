@@ -12,7 +12,6 @@
 #ifndef _statement_h
 #define _statement_h
 
-#include <exp.h>
 #include "evalstate.h"
 #include "exp.h"
 #include "tokenscanner.h"
